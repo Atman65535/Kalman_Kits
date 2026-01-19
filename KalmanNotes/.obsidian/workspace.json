@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kalman Filters.md",
+                "file": "MAINNOTE.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kalman Filters"
+              "title": "MAINNOTE"
             }
           }
         ]
@@ -189,7 +189,7 @@
     "numpy.linalg.inv().md",
     "attachments/ESKFlast.png",
     "attachments/EKFlast.png",
-    "Kalman Filters.md",
+    "MAINNOTE.md",
     "attachments/EKF.png",
     "attachments/ESKFmoving.png",
     "attachments/KF1d_static.png",
